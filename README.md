@@ -13,16 +13,6 @@ Rental Pricing: The system calculates the total price based on the rental durati
 
 Simple Interface: Users interact with the system through a command-line interface.
 
-# Usage
-
-Setup: Clone the repository to your local machine.
-
-Compile: Compile the Java files using a Java compiler. You can use any Java IDE or the command line.
-
-Run: Execute the compiled Main class to launch the car rental system.
-
-Menu Navigation: Follow the prompts in the command-line interface to rent or return cars.
-
 # Classes
 Car: Represents a car object with properties such as ID, brand, model, base price per day, and availability status.
 
@@ -33,3 +23,13 @@ Rental: Represents a rental transaction, linking a car to a customer and specify
 CarRentalSystem: Implements the main functionalities of the car rental system, including adding cars and customers, renting and returning cars, and providing a user interface through the menu method.
 
 Main: Entry point of the program containing the main method to start the car rental system.
+
+# Usage
+
+Setup: Clone the repository to your local machine.
+
+Compile: Compile the Java files using a Java compiler. You can use any Java IDE or the command line.
+
+Run: Execute the compiled Main class to launch the car rental system.
+
+Menu Navigation: Follow the prompts in the command-line interface to rent or return cars.
