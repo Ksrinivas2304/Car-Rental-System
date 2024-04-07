@@ -30,6 +30,6 @@ Setup: Clone the repository to your local machine.
 
 Compile: Compile the Java files using a Java compiler. You can use any Java IDE or the command line.
 
-Run: Execute the compiled Main class to launch the car rental system.
+Run: Execute the compiled '**Main**' class to launch the car rental system.
 
 Menu Navigation: Follow the prompts in the command-line interface to rent or return cars.
